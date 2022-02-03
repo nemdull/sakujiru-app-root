@@ -1,0 +1,6 @@
+[submodule "api"]
+  path = api
+  url = https://github.com/dlanx0607/sakujiru-app-api
+[submodule "front"]
+  path = front
+  url = https://github.com/dlanx0607/sakujiru-app-front
